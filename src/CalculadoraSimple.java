@@ -21,7 +21,7 @@ public class CalculadoraSimple {
         // Multiplicacion
         int multiplicacion = a * b;
         System.out.println("Multiplicacion: " + multiplicacion);
-
+       
         scanner.close();
 
         
